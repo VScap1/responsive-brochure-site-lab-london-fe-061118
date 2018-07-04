@@ -13,3 +13,8 @@ ul {
 li a {
     display: block;
 }
+
+li {
+  float: left;
+}
+
