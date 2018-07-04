@@ -1,6 +1,7 @@
 
 body {
   color: blue;
+  display: block;
 }
 nav {
   text-align: center;
