@@ -29,3 +29,7 @@ li a{
    font-weight: bold;
    font-variant: small-caps;
 }
+img {
+  text-align: center;
+  display: inline-block;
+}
