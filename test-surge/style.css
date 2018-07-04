@@ -7,6 +7,7 @@ header {
 }
 nav {
   text-align: center;
+  display: inline-block;
 }
 li {
   display: block;
