@@ -1,7 +1,9 @@
 
 body {
   color: blue;
-  display: block;
+}
+header {
+  width: 100%;
 }
 nav {
   text-align: center;
