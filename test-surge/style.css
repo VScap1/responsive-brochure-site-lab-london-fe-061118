@@ -26,4 +26,6 @@ li {
 }
 li a{
    color: #ff5050;
+   font-style: oblique;
+   font-variant: small-caps;
 }
