@@ -2,19 +2,6 @@
 body {
   color: blue;
 }
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-} 
-
-li a {
-    display: block;
-    width: 60px;
+nav {
+  text-align: center;
 }
-
-li {
-  float: left;
-}
-
