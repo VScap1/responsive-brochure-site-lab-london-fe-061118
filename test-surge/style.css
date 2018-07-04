@@ -1,10 +1,13 @@
 
 body {
-  color: #ff5050;
+  color: ;
 }
 header {
   text-align: center;
   width: 100%;
+}
+h1 {
+  color: #ff5050;
 }
 nav {
   text-align: center;
